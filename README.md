@@ -5,3 +5,7 @@ Systemless installation of MiShare.apk
   Almost All Redmi Devices
   Maybe Some or All AOSP Based ROMs
   try youself than feedback
+
+
+### ok 
+Work for All devices
