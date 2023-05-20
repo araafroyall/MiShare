@@ -10,6 +10,10 @@ Systemless installation of MiShare.apk
 ### Usage
 It will Allow you to transfer or Share Files, Media, Docs, Videos , Or Anything with other devices supporting MiShare , OppoShare, VivoShare,RealmeShare and all devices having similar mechanism . 
 
+### Speed 
+Upto 45MB/s Depend on Device and method
+All Latest Android(11+) Supports 35+MB/s 
+
 ### Donate 
 
 USDT (TRC-20) Or TRX 
