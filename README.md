@@ -14,7 +14,7 @@ It will Allow you to transfer or Share Files, Media, Docs, Videos , Or Anything 
 Upto 45MB/s Depend on Device and method
 All Latest Android(11+) Supports 35+MB/s 
 
-### Donate 
+### Support
 
 USDT (TRC-20) Or TRX 
 TNPHLr8WXmjZQ2V6VtnLaa4aXH8HH2ULQG
