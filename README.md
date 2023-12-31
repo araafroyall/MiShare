@@ -1,4 +1,4 @@
-# MiShareMagiskModule
+# MiShare Magisk-Module
 
 Systemless installation of MiShare.apk
 
